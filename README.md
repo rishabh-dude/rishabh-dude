@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rsb_dude" target="blank"><img src="https://img.shields.io/twitter/follow/rsb_dude?logo=twitter&style=for-the-badge" alt="rsb_dude" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity and Python**
+- 🌱 I’m currently learning **Data Science with Machine Learning**
 
 - 💬 Ask me about **Anything in your mind**
 
